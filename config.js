@@ -5,19 +5,19 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~1TMRBS6D#fsf4tq0Fl14hs7S8ApE4rgegXErGoBPXbxfqPQbBoBU",
+SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~9G8HURRb#5BsZCg--Wem9l0M9jfQ3WhlseFgo5VYb11jMGMvObV0",
 // add your Session Id 
-PREFIX: process.env.PREFIX || "#",
+PREFIX: process.env.PREFIX || "*",
 // add your prifix for bot
 BOT_NAME: process.env.BOT_NAME || "✦ CASEYRHODES ✦ XMD ✦",
 // add bot namw here for menu
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🔥",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "",
 // chose custom react emojis by yourself 
-DELETE_LINKS: process.env.DELETE_LINKS || "false",
+DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254718835933",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254788409105",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "✦ CASEYRHODES ✦ XMD ✦",
 // add bot owner name
@@ -25,7 +25,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ✦ CASEYRHODES ✦ XMD ✦*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.imgur.com/PEZ5QL2.jpeg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> SILVA SPARK IS SPARKING ACTIVE AND ALIVE\n\n\nKEEP USING CASEYRHODES XMD FROM CASEYRHODES TECH INC⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> I AM ACTIVE AND ALIVE\n\n\nKEEP USING CASEYRHODES XMD FROM CASEYRHODES TECH INC⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "true",
 // Turn true or false for automatic read msgs
@@ -51,7 +51,7 @@ AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 HEART_REACT: process.env.HEART_REACT || "false",
 // make this true or false for heart reactions only 
-OWNER_REACT: process.env.OWNER_REACT || "true",
+OWNER_REACT: process.env.OWNER_REACT || "false",
 // make it true or fasle for only react on owner msg only 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
