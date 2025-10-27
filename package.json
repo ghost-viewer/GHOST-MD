@@ -1,12 +1,12 @@
 {
-  "name": "CASEYRHODES-XMD",
+  "name": "GHOST-XMD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CASEYRHODES-XMD",
-    "stop": "pm2 stop CASEYRHODES-XMD",
-    "restart": "pm2 restart CASEYRHODES-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name GHOST-XMD",
+    "stop": "pm2 stop GHOST-XMD",
+    "restart": "pm2 restart GHOST-XMD"
   },
 "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
