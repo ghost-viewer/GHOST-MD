@@ -5,11 +5,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~9G8HURRb#5BsZCg--Wem9l0M9jfQ3WhlseFgo5VYb11jMGMvObV0",
+SESSION_ID: process.env.SESSION_ID || "Put byour session id here",
 // add your Session Id 
 PREFIX: process.env.PREFIX || "*",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "✦ CASEYRHODES ✦ XMD ✦",
+BOT_NAME: process.env.BOT_NAME || "✦ GHOST-XMD ✦",
 // add bot namw here for menu
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -17,15 +17,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254788409105",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254769677305",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "✦ CASEYRHODES ✦ XMD ✦",
+OWNER_NAME: process.env.OWNER_NAME || "✦ GHOST-XMD ✦",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ✦ CASEYRHODES ✦ XMD ✦*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ✦ GHOST-XMD ✦*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.imgur.com/PEZ5QL2.jpeg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> I AM ACTIVE AND ALIVE\n\n\nKEEP USING CASEYRHODES XMD FROM CASEYRHODES TECH INC⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> I AM ACTIVE AND ALIVE\n\n\nKEEP USING GHOST-XMD FROM GHOST-VIEWER⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "true",
 // Turn true or false for automatic read msgs
@@ -37,7 +37,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by CASEYRHODES XMD 🚀🔥*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by GHOST-VIEWER 🚀🔥*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
