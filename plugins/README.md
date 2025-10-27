@@ -1,4 +1,6 @@
 ## CONTACT CASEYRHODES TECH
+<p align="center">
+<a href="https://github.com/caseyweb"><img title="Author" src="https://files.catbox.moe/cv6t5y.jpeg?style=for-the-badge&logo=github"></a>
   
 <a href="https://wa.me/254112192119"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
