@@ -1,11 +1,11 @@
 {
-  "name": "CASEYRHODES-XMD",
-  "description": "Javascript WhatsApp bot made by CASEYRHODES.",
-  "keywords": ["CASEYRHODES-XMD"],
+  "name": "GHOST-XMD",
+  "description": "Javascript WhatsApp bot made by GHOST-VIEWER.",
+  "keywords": ["GHOST-XMD"],
   
   
   "logo": "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg",
-  "repository": "https://github.com/caseyweb/NHEZHO-MD",
+  "repository": "https://github.com/ghost-viewer/GHOST-MD",
   "succes_url": "/",
 
   "stack": "container",
@@ -25,7 +25,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> CASEYRHODES-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> GHOST-XMD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -82,25 +82,25 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 sᴇᴇɴ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ🚀🔥*"
+      "value": "*SEEN BY GHOST-VIEWER*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄᴀsᴇʏʀʜᴏᴅᴇs 🫅"
+      "value": "GHOST-VIEWER"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "254769677305"
  },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ✦"
+      "value": "✦ GHOST-XMD✦"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ✦*"
+      "value": "*© ✦GHOST-XMD✦*"
     },
 
       "DELETE_LINKS": {
